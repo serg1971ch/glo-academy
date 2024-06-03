@@ -1,23 +1,20 @@
-// 5) В файле скрипта создать переменные:
-//
-//     title,
-//         screens,
-//         screenPrice,
-//         rollback,
-//         fullPrice,
-//         adaptive
-// 6) Вывести на экран в модальном окне (alert) сообщение с любым текстом
-//
-// 7) Вывести в консоль сообщение с любым текстом
+let title = "Lesson 2";
+let screens = "Простые, Сложные, Интерактивные";
+let screenPrice = 45;
+let rollback = 72;
+let fullPrice = 200000;
+let adaptive = true;
 
-let title,
-    screens,
-    screenPrice,
-    rollback,
-    fullPrice,
-    adaptive
-
-alert("Hello, World!");
-
-console.log("Здравствуйте, уважемые сотрудники и наставники Glo Академии! " +
-    "Желаю вам успехов и удачи в вашем прекрасном и благородном деле!")
+console.log(typeof(title));
+console.log(typeof(fullPrice));
+console.log(typeof(adaptive));
+console.log(" ");
+console.log(screens.length);
+console.log(" ");
+console.log(`Стоимость верстки экранов ${screenPrice} рублей/ долларов/гривен/юани`);
+console.log(`Стоимость верстки экранов ${fullPrice} рублей/ долларов/гривен/юани`);
+console.log(" ");
+console.log(screens.toLowerCase().split(","));
+console.log(" ");
+rollback = fullPrice * (rollback/100);
+console.log(`Процент отката посреднику за работу: ${rollback}`);
