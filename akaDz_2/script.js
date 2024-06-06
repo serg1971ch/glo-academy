@@ -1,21 +1,21 @@
 'use strict';
 
-let title = prompt('Как называется ваш проект?', 'Dz #03');
+const title= prompt('Как называется ваш проект?', 'Dz #03');
 console.log(" ");
 
-let screens = prompt('Какие типы экранов нужно разработать?', 'Простые, Сложные, Интерактивные');
+const screens = prompt('Какие типы экранов нужно разработать?', 'Простые, Сложные, Интерактивные');
 console.log(" ");
 
 let screenPrice = prompt('Сколько будет стоить данная работа?', 12000);
 console.log(" ");
 
-let adaptive = confirm('Нужен ли адаптив на сайте?');
+const adaptive = confirm('Нужен ли адаптив на сайте?');
 console.log(" ");
 
-let service1 = prompt('Какой дополнительный тип услуги нужен?');
-let servicePrice1 = parseInt(service1);
-let service2 = prompt('Какой дополнительный тип услуги нужен?');
-let servicePrive2 = parseInt(service2);
+const service1 = prompt('Какой дополнительный тип услуги нужен?');
+const servicePrice1 = parseInt(service1);
+const service2 = prompt('Какой дополнительный тип услуги нужен?');
+const servicePrive2 = parseInt(service2);
 screenPrice = parseInt(screenPrice);
 let fullPrice = servicePrice1 + servicePrive2 + screenPrice;
 console.log(fullPrice);
