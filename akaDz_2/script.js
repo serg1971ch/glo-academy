@@ -1,18 +1,18 @@
 'use strict';
 
-llet screens = "Простые, Сложные, Интерактивные";
-let screenPrice = 45;
-let adaptive = true;
-let title = "";
+const screens = "Простые, Сложные, Интерактивные";
+const screenPrice = 45;
+const adaptive = true;
+const title = "";
 
-let rollback = 10;
-let allServicePrices;
-let fullPrice;
-let servicePercentPrice;
+const rollback = 10;
+const allServicePrices;
+const fullPrice;
+const servicePercentPrice;
 
-let service1 = prompt('Какой дополнительный тип услуги нужен?');
+const service1 = prompt('Какой дополнительный тип услуги нужен?');
 let servicePrice1 = parseInt(service1);
-let service2 = prompt('Какой дополнительный тип услуги нужен?');
+const service2 = prompt('Какой дополнительный тип услуги нужен?');
 let servicePrice2 = parseInt(service2);
 screenPrice = parseInt(screenPrice);
 
