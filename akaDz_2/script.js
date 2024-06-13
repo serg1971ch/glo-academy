@@ -14,7 +14,7 @@ const appService = {
 
     start: function () {
         appService.asking()
-        appService.allServicePrices = appService.allServicePrices()
+        appService.allServicePrices = appService.getAllServicePrices()
         appService.fullPrice = appService.getFullPrice()
         appService.servicePercentPrice = appService.getServicePercentPrices()
         appService.title = appService.getTitle()
@@ -23,7 +23,7 @@ const appService = {
     },
 
     isNumber: function (num) {
-        return !NaN(parseFloat(num) & isFinite(num))
+        return !isNaN(parseFloat(num) & isFinite(num))
     },
 
     asking: function () {
