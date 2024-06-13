@@ -81,8 +81,11 @@ const appService = {
     },
 
     logger: function () {
-        console.log(appService.fullPrice)
-        console.log(appService.servicePercentPrice)
+        for(let key in appService){
+            if(appService.hasOwnProperty(key)){
+                console.log(key, appService[key]);
+            }
+        }
     }
 }
 
