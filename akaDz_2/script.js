@@ -15,8 +15,8 @@ const appService = {
     start: function () {
         appService.asking()
         appService.allServicePrices = appService.allServicePrices()
-        appService.fullPrice = appService.fullPrice()
-        appService.servicePercentPrice = appService.servicePercentPrice()
+        appService.fullPrice = appService.getFullPrice()
+        appService.servicePercentPrice = appService.getServicePercentPrices()
         appService.title = appService.getTitle()
 
         appService.logger()
@@ -31,7 +31,7 @@ const appService = {
         appService.screens = prompt('Какие типы экранов нужно разработать?', 'Простые, Сложные, Интерактивные');
         do {
             appService.screenPrice = prompt('Сколько будет стоить данная работа?', 12000);
-        } while (isNumber(screenPrice))
+        } while (appService.isNumber(appService.screenPrice))
         {
             appService.adaptive = confirm('Нужен ли адаптив на сайте?');
         }
