@@ -2,18 +2,18 @@
 
 const appService = {
     title: '',
-    screens: '',
+    screens: [],
     screenPrice: 0,
     adaptive: true,
     rollback: 10,
     allServicePrices: 0,
     fullPrice: 0,
     servicePercentPrice: 0,
-    service1: ' ',
-    service2: '',
+    services: {},
 
     start: function () {
         appService.asking()
+        appService.addPrices()
         appService.allServicePrices = appService.getAllServicePrices()
         appService.fullPrice = appService.getFullPrice()
         appService.servicePercentPrice = appService.getServicePercentPrices()
@@ -23,49 +23,66 @@ const appService = {
     },
 
     isNumber: function (num) {
-        return !isNaN(parseFloat(num) & isFinite(num))
+        return !isNaN(parseFloat(num)) && isFinite(num)
+    },
+
+    isText: function (text) {
+        return /\D/.test(text)
     },
 
     asking: function () {
-        appService.title = prompt('Как называется ваш проект?', 'Homework Number-05');
-        appService.screens = prompt('Какие типы экранов нужно разработать?', 'Простые, Сложные, Интерактивные');
-        do {
-            appService.screenPrice = prompt('Сколько будет стоить данная работа?', 12000);
-        } while (appService.isNumber(appService.screenPrice))
-        {
-            appService.adaptive = confirm('Нужен ли адаптив на сайте?');
+        appService.title = prompt('Как называется ваш проект?', 'Homework Number-08');
+
+        for (let i = 0; i < 2; i++) {
+            let name = prompt("Какие типы экранов нужно разработать?", "Простые, сложные")
+            let price = 0;
+
+            do {
+                price = prompt("Сколько это будет стоить данная работа?")
+            } while (appService.isText(price))
+
+            appService.screens.push({id: i, name: name, price: price})
+        }
+
+        for (screen of appService.screens) {
+            appService.screenPrice += +screen.price;
+        }
+
+        for (let i = 0; i < 2; i++)  {
+            let name = prompt("Какой дополнительный тип услуги нужен?");
+            let price = 0;
+
+            do {
+                price = prompt("Сколько это будет стоить?")
+            } while (!appService.isNumber(price))
+
+            appService.services[name] = +price;
+        }
+        appService.adaptive = confirm('Нужен ли адаптив на сайте?');
+    },
+
+    addPrices: function () {
+        for (let screen of appService.screens) {
+            appService.screenPrice += +screen.price
         }
     },
 
     getAllServicePrices: function () {
-        let sum = 0;
-        for (let i = 0; i < 2; i++) {
-            let price = 0;
-
-            if (i === 0) {
-                appService.service1 = prompt("Какой дополнительный тип услуги нужен?")
-            } else if (i === 1) {
-                appService.service2 = prompt("Какой дополнительный тип услуги нужен?")
-            }
-
-            do {
-                price = promt("Сколько это будет стоить,")
-            } while (!isNumber(price))
-            sum += +price;
+        for (let key in appService.services) {
+            appService.allServicePrices += appService.services[key]
         }
-        return sum;
     },
 
     getFullPrice: function () {
-        return screenPrice + servicePrice1 + servicePrice2;
+        appService.fullPrice = +appService.screenPrice + appService.allServicePrices;
     },
 
     getServicePercentPrices: function () {
-        return fullPrice - (fullPrice * (rollback / 100));
+        appService.fullPrice = appService.fullPrice - (appService.fullPrice * (appService.rollback / 100));
     },
 
     getTitle: function () {
-        return title.trim()[0].toUpperCase() + title.trim().substr(1).toLowerCase();
+        appService.title.trim()[0].toUpperCase() + appService.title.trim().substr(1).toLowerCase();
     },
 
     getRollbackMessage: function (fullPrice) {
@@ -81,8 +98,8 @@ const appService = {
     },
 
     logger: function () {
-        for(let key in appService){
-            if(appService.hasOwnProperty(key)){
+        for (let key in appService) {
+            if (appService.hasOwnProperty(key)) {
                 console.log(key, appService[key]);
             }
         }
