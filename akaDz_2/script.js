@@ -54,10 +54,11 @@ const appService = {
 
             do {
                 price = prompt("Сколько это будет стоить?")
-            } while (!appService.isNumber(price))
-
+            } while (appService.isText(price))
             appService.services[name] = +price;
         }
+        console.log("Массив сервисов: " + this.services)
+
         appService.adaptive = confirm('Нужен ли адаптив на сайте?');
     },
 
