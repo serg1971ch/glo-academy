@@ -12,13 +12,11 @@ const appService = {
     services: {},
 
     start: function () {
-        appService.asking()
-        appService.addPrices()
-        appService.allServicePrices = appService.getAllServicePrices()
-        appService.fullPrice = appService.getFullPrice()
-        appService.servicePercentPrice = appService.getServicePercentPrices()
-        appService.title = appService.getTitle()
-
+        this.asking()
+        this.addPrices()
+        this.getAllServicePrices()
+        this.getFullPrice()
+        this.getServicePercentPrices()
         appService.logger()
     },
 
