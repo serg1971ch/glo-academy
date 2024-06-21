@@ -14,7 +14,13 @@ const overItemsPercent = document.querySelectorAll('.over-items.percent'),
 const rangeInput = document.querySelector('.rollback.input[type="range"]');
 
 const rangeValueSpan = document.querySelector('.rollback .range-value');
+
 const totalInputs = document.getElementsByClassName('total-input');
+const total = totalInputs[0];
+const totalCount = totalInputs[1];
+const totalCountOther = totalInputs[2];
+const fullTotalCount = totalInputs[3];
+const totalCountRollback = totalInputs[4];
 
 let blocksScreen = document.querySelectorAll('.screen');
 
