@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="36e7ff17-78b8-4ec1-8fe3-e0fda3bd2aa3" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../27-02-23-otus" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Suite/OfficeSuite Documents.lnk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Suite/OfficeSuite Mail.lnk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Suite/OfficeSuite PDF.lnk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Suite/OfficeSuite Sheets.lnk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Suite/OfficeSuite Slides.lnk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VPN Proxy Master.lnk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../augustJava/lesson-01-intro/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../augustJava/lesson-01-intro/src/main/java/ru/otus/lesson1/intro/MainApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../augustJava/lesson-03-generics/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../augustJava/lesson-03-generics/src/main/java/ru/otus/lesson3/generics/ComparableBoxGeneric.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../augustJava/lesson-03-generics/src/main/java/ru/otus/lesson3/generics/ComparableBoxNonGeneric.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../augustJava/lesson-03-generics/src/main/java/ru/otus/lesson3/generics/GenericDoubleBox.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../augustJava/lesson-03-generics/src/main/java/ru/otus/lesson3/generics/GenericNumberBox.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../augustJava/lesson-03-generics/src/main/java/ru/otus/lesson3/generics/GenericSimpleBox.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../augustJava/lesson-03-generics/src/main/java/ru/otus/lesson3/generics/MainApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../augustJava/lesson-03-generics/src/main/java/ru/otus/lesson3/generics/SimpleBox.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../augustJava/lesson-06-annotations/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../augustJava/lesson-06-annotations/src/main/java/ru/otus/lesson6/annotations/CustomAnnotation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../augustJava/lesson-06-annotations/src/main/java/ru/otus/lesson6/annotations/CustomAnnotations.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../augustJava/lesson-06-annotations/src/main/java/ru/otus/lesson6/annotations/MainApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../augustJava/lesson-06-annotations/src/main/java/ru/otus/lesson6/annotations/MegaAnnotation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../augustJava/lesson-06-annotations/src/main/java/ru/otus/lesson6/annotations/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../augustJava/lesson-07-functional-programming/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../augustJava/lesson-07-functional-programming/src/main/java/ru/otus/lesson7/functional/programming/StreamsApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../augustJava/lesson-07-functional-programming/src/main/java/ru/otus/lesson7/functional/programming/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../augustJava/lesson-07-functional-programming/src/main/java/ru/otus/lesson7/functional/programming/StudentsApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../augustJava/lesson-09-troubleshouting/app01/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../augustJava/lesson-09-troubleshouting/app01/src/main/java/ConcurrentDataStructuresDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../augustJava/lesson-09-troubleshouting/app01/src/test/java/ConcurrentDataStructuresDemoTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../augustJava/lesson-09-troubleshouting/app02/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../augustJava/lesson-09-troubleshouting/app02/src/main/java/com/example/sem15/MainController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../augustJava/lesson-09-troubleshouting/app02/src/main/java/com/example/sem15/Question.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../augustJava/lesson-09-troubleshouting/app02/src/main/java/com/example/sem15/Sem15Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../augustJava/lesson-09-troubleshouting/app02/src/main/java/com/example/sem15/security/SecurityConfigurer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../augustJava/lesson-09-troubleshouting/app02/src/main/java/com/example/sem15/service/MyUserDetailsService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../augustJava/lesson-09-troubleshouting/app02/src/main/java/com/example/sem15/test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../augustJava/lesson-09-troubleshouting/app02/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../augustJava/lesson-09-troubleshouting/app02/src/test/java/com/example/sem15/Sem15ApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../augustJava/lesson-13-behavioural-patterns/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../augustJava/lesson-13-behavioural-patterns/src/main/java/ru/otus/lesson13/example/command/Booking.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../augustJava/lesson-13-behavioural-patterns/src/main/java/ru/otus/lesson13/example/command/Breakfast.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../augustJava/lesson-13-behavioural-patterns/src/main/java/ru/otus/lesson13/example/command/ExtraBed.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../augustJava/lesson-13-behavioural-patterns/src/main/java/ru/otus/lesson13/example/command/GuestExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../augustJava/lesson-13-behavioural-patterns/src/main/java/ru/otus/lesson13/example/command/MiniBar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../augustJava/lesson-13-behavioural-patterns/src/main/java/ru/otus/lesson13/example/command/Option.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../augustJava/lesson-13-behavioural-patterns/src/main/java/ru/otus/lesson13/example/command/Room.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../augustJava/lesson-13-behavioural-patterns/src/main/java/ru/otus/lesson13/example/command/data/Charge.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../augustJava/lesson-13-behavioural-patterns/src/main/java/ru/otus/lesson13/example/command/data/Guest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../augustJava/lesson-13-behavioural-patterns/src/main/java/ru/otus/lesson13/example/cor/AuthStep.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../augustJava/lesson-13-behavioural-patterns/src/main/java/ru/otus/lesson13/example/cor/AuthenticationStep.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../augustJava/lesson-13-behavioural-patterns/src/main/java/ru/otus/lesson13/example/cor/AuthorizationStep.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../augustJava/lesson-13-behavioural-patterns/src/main/java/ru/otus/lesson13/example/cor/GetUserStep.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../augustJava/lesson-13-behavioural-patterns/src/main/java/ru/otus/lesson13/example/cor/PerformLogin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../augustJava/lesson-13-behavioural-patterns/src/main/java/ru/otus/lesson13/example/cor/data/AuthCtx.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../augustJava/lesson-13-behavioural-patterns/src/main/java/ru/otus/lesson13/example/cor/data/Realm.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../augustJava/lesson-13-behavioural-patterns/src/main/java/ru/otus/lesson13/example/cor/data/Resource.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../augustJava/lesson-13-behavioural-patterns/src/main/java/ru/otus/lesson13/example/cor/data/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../augustJava/lesson-13-behavioural-patterns/src/main/java/ru/otus/lesson13/example/cor/data/UserStorage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../augustJava/lesson-13-behavioural-patterns/src/main/java/ru/otus/lesson13/example/memento/Caretaker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../augustJava/lesson-13-behavioural-patterns/src/main/java/ru/otus/lesson13/example/memento/Editor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../augustJava/lesson-13-behavioural-patterns/src/main/java/ru/otus/lesson13/example/memento/MementoExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../augustJava/lesson-13-behavioural-patterns/src/main/java/ru/otus/lesson13/example/memento/data/Memento.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../augustJava/lesson-13-behavioural-patterns/src/main/java/ru/otus/lesson13/example/memento/data/TextItem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../augustJava/lesson-13-behavioural-patterns/src/main/java/ru/otus/lesson13/example/observer/Delayer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../augustJava/lesson-13-behavioural-patterns/src/main/java/ru/otus/lesson13/example/observer/DeleteListener.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../augustJava/lesson-13-behavioural-patterns/src/main/java/ru/otus/lesson13/example/observer/Event.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../augustJava/lesson-13-behavioural-patterns/src/main/java/ru/otus/lesson13/example/observer/EventListener.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../augustJava/lesson-13-behavioural-patterns/src/main/java/ru/otus/lesson13/example/observer/EventManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../augustJava/lesson-13-behavioural-patterns/src/main/java/ru/otus/lesson13/example/observer/EventType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../augustJava/lesson-13-behavioural-patterns/src/main/java/ru/otus/lesson13/example/observer/LIstListener.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../augustJava/lesson-13-behavioural-patterns/src/main/java/ru/otus/lesson13/example/observer/ObesrvableExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../augustJava/lesson-13-behavioural-patterns/src/main/java/ru/otus/lesson13/example/observer/UpdateListener.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../augustJava/lesson-13-behavioural-patterns/src/main/java/ru/otus/lesson13/example/state/Order.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../augustJava/lesson-13-behavioural-patterns/src/main/java/ru/otus/lesson13/example/state/OrderContext.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../augustJava/lesson-13-behavioural-patterns/src/main/java/ru/otus/lesson13/example/state/OrderExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../augustJava/lesson-13-behavioural-patterns/src/main/java/ru/otus/lesson13/example/state/OrderOpened.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../augustJava/lesson-13-behavioural-patterns/src/main/java/ru/otus/lesson13/example/state/OrderPaid.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../augustJava/lesson-13-behavioural-patterns/src/main/java/ru/otus/lesson13/example/state/OrderState.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../augustJava/lesson-13-behavioural-patterns/src/main/java/ru/otus/lesson13/example/state/OrderSubmitted.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../augustJava/lesson-13-behavioural-patterns/src/main/java/ru/otus/lesson13/example/state/data/OrderItem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../augustJava/lesson-13-behavioural-patterns/src/main/java/ru/otus/lesson13/example/state/data/OrderStateEnum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../augustJava/lesson-13-behavioural-patterns/src/main/java/ru/otus/lesson13/example/strategy/Charger.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../augustJava/lesson-13-behavioural-patterns/src/main/java/ru/otus/lesson13/example/strategy/GuestExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../augustJava/lesson-13-behavioural-patterns/src/main/java/ru/otus/lesson13/example/visitor/ChargeVisitor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../augustJava/lesson-13-behavioural-patterns/src/main/java/ru/otus/lesson13/example/visitor/Consumer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../augustJava/lesson-13-behavioural-patterns/src/main/java/ru/otus/lesson13/example/visitor/ConsumerVisitor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../augustJava/lesson-13-behavioural-patterns/src/main/java/ru/otus/lesson13/example/visitor/Organization.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../augustJava/lesson-13-behavioural-patterns/src/main/java/ru/otus/lesson13/example/visitor/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../augustJava/lesson-13-behavioural-patterns/src/main/java/ru/otus/lesson13/example/visitor/VisitorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex2-spring/.gradle/8.2.1/checksums/checksums.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex2-spring/.gradle/8.2.1/checksums/md5-checksums.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex2-spring/.gradle/8.2.1/checksums/sha1-checksums.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex2-spring/.gradle/8.2.1/dependencies-accessors/dependencies-accessors.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex2-spring/.gradle/8.2.1/dependencies-accessors/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex2-spring/.gradle/8.2.1/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex2-spring/.gradle/8.2.1/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex2-spring/.gradle/8.2.1/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex2-spring/.gradle/8.2.1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex2-spring/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex2-spring/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex2-spring/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex2-spring/.gradle/vcs-1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex2-spring/docker/runDb.src" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex2-spring/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex2-spring/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex2-spring/src/main/java/ru/otus/AppSwing.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex2-spring/src/main/java/ru/otus/controller/ControllerGirl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex2-spring/src/main/java/ru/otus/dbmigrations/MigrationsExecutorFlyway.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex2-spring/src/main/java/ru/otus/model/Avatars.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex2-spring/src/main/java/ru/otus/model/Country.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex2-spring/src/main/java/ru/otus/model/Girl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex2-spring/src/main/java/ru/otus/model/Hairs.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex2-spring/src/main/java/ru/otus/repository/GirlRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex2-spring/src/main/java/ru/otus/repository/GirlRepositoryImp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex2-spring/src/main/java/ru/otus/view/FormEvent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex2-spring/src/main/java/ru/otus/view/FormListener.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex2-spring/src/main/java/ru/otus/view/FormPanel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex2-spring/src/main/java/ru/otus/view/JPanelMenu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex2-spring/src/main/java/ru/otus/view/MainFrame.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex2-spring/src/main/java/ru/otus/view/TextPanel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex2-spring/src/main/java/ru/otus/view/ToolBar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex2-spring/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex2-spring/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex2-spring/src/main/resources/db/migration/schema.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex2-spring/src/main/resources/hibernate.cfg.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex2-spring/src/main/resources/logback.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex2-spring/src/test/java/com/example/ex2spring/Ex2SpringApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex2-spring/src/test/java/com/example/ex2spring/TestEx2SpringApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../final-project-template/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../girlsApp/.gradle/8.2/checksums/checksums.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../girlsApp/.gradle/8.2/checksums/md5-checksums.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../girlsApp/.gradle/8.2/checksums/sha1-checksums.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../girlsApp/.gradle/8.2/dependencies-accessors/dependencies-accessors.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../girlsApp/.gradle/8.2/dependencies-accessors/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../girlsApp/.gradle/8.2/executionHistory/executionHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../girlsApp/.gradle/8.2/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../girlsApp/.gradle/8.2/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../girlsApp/.gradle/8.2/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../girlsApp/.gradle/8.2/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../girlsApp/.gradle/8.2/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../girlsApp/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../girlsApp/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../girlsApp/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../girlsApp/.gradle/file-system.probe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../girlsApp/.gradle/vcs-1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../girlsApp/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../girlsApp/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../girlsApp/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../girlsApp/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../girlsApp/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../girlsApp/.idea/jpa-buddy.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../girlsApp/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../girlsApp/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../girlsApp/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../girlsApp/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../girlsApp/ex1/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../girlsApp/ex1/src/main/java/ru/otus/controller/ControllerGirl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../girlsApp/ex1/src/main/java/ru/otus/model/Country.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../girlsApp/ex1/src/main/java/ru/otus/model/Eyes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../girlsApp/ex1/src/main/java/ru/otus/model/Girl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../girlsApp/ex1/src/main/java/ru/otus/model/Hairs.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../girlsApp/ex1/src/main/java/ru/otus/view/AppSwing.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../girlsApp/ex1/src/main/java/ru/otus/view/FormEvent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../girlsApp/ex1/src/main/java/ru/otus/view/FormListener.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../girlsApp/ex1/src/main/java/ru/otus/view/FormPanel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../girlsApp/ex1/src/main/java/ru/otus/view/JPanelMenu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../girlsApp/ex1/src/main/java/ru/otus/view/MainFrame.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../girlsApp/ex1/src/main/java/ru/otus/view/TextPanel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../girlsApp/ex1/src/main/java/ru/otus/view/ToolBar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../girlsApp/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../girlsApp/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../girlsApp/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../girlsApp/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../girlsApp/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../girlsApp/settings.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw25-di/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw25-di/src/main/java/ru/otus/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw25-di/src/main/java/ru/otus/appcontainer/AppComponentsContainerImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw25-di/src/main/java/ru/otus/appcontainer/api/AppComponent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw25-di/src/main/java/ru/otus/appcontainer/api/AppComponentsContainer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw25-di/src/main/java/ru/otus/appcontainer/api/AppComponentsContainerConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw25-di/src/main/java/ru/otus/config/AppConfig1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw25-di/src/main/java/ru/otus/config/AppConfig2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw25-di/src/main/java/ru/otus/model/DivisionEquation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw25-di/src/main/java/ru/otus/model/Equation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw25-di/src/main/java/ru/otus/model/GameResult.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw25-di/src/main/java/ru/otus/model/MultiplicationEquation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw25-di/src/main/java/ru/otus/model/Player.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw25-di/src/main/java/ru/otus/services/EquationPreparer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw25-di/src/main/java/ru/otus/services/EquationPreparerImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw25-di/src/main/java/ru/otus/services/GameProcessor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw25-di/src/main/java/ru/otus/services/GameProcessorImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw25-di/src/main/java/ru/otus/services/IOService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw25-di/src/main/java/ru/otus/services/IOServiceConsole.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw25-di/src/main/java/ru/otus/services/PlayerService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw25-di/src/main/java/ru/otus/services/PlayerServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw25-di/src/test/java/ru/otus/AppTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../img-Y25050417.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_notions.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../swingPostrgesApp/compose.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../swingPostrgesApp/src/main/java/com/example/swingPostrgesApp/AppSwing.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../swingPostrgesApp/src/main/java/com/example/swingPostrgesApp/controller/ControllerGirl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../swingPostrgesApp/src/main/java/com/example/swingPostrgesApp/model/Avatars.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../swingPostrgesApp/src/main/java/com/example/swingPostrgesApp/model/Country.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../swingPostrgesApp/src/main/java/com/example/swingPostrgesApp/model/Girl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../swingPostrgesApp/src/main/java/com/example/swingPostrgesApp/model/GirlRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../swingPostrgesApp/src/main/java/com/example/swingPostrgesApp/model/Hairs.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../swingPostrgesApp/src/main/java/com/example/swingPostrgesApp/repository/GirlRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../swingPostrgesApp/src/main/java/com/example/swingPostrgesApp/repository/GirlRepositoryImp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../swingPostrgesApp/src/main/java/com/example/swingPostrgesApp/view/FormEvent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../swingPostrgesApp/src/main/java/com/example/swingPostrgesApp/view/FormListener.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../swingPostrgesApp/src/main/java/com/example/swingPostrgesApp/view/FormPanel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../swingPostrgesApp/src/main/java/com/example/swingPostrgesApp/view/JPanelMenu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../swingPostrgesApp/src/main/java/com/example/swingPostrgesApp/view/MainFrame.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../swingPostrgesApp/src/main/java/com/example/swingPostrgesApp/view/TextPanel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../swingPostrgesApp/src/main/java/com/example/swingPostrgesApp/view/ToolBar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../swingPostrgesApp/src/test/java/com/example/swingPostrgesApp/GirlRepositoryJpaTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../swingPostrgesApp/src/test/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../swingPostrgesApp/src/test/resources/test-data.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../дипломная работа по skillBox.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../попытка threds Mundulu.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../разные записи/comment_marianna.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../разные записи/gradle.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../разные записи/parol.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../упмт_таблица.xlsx" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2itm6gWfCjaZ6I3Ojm4s2cgUrxp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/PC/Desktop/glo-academy&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="script.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/script/script.js" working-dir="$PROJECT_DIR$/script">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.script.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="36e7ff17-78b8-4ec1-8fe3-e0fda3bd2aa3" name="Changes" comment="" />
+      <created>1720318074104</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1720318074104</updated>
+      <workItem from="1720318075661" duration="6743000" />
+      <workItem from="1720447697639" duration="596000" />
+      <workItem from="1720457914561" duration="13814000" />
+      <workItem from="1720529265648" duration="2999000" />
+      <workItem from="1720885160726" duration="9912000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
